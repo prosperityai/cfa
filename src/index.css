@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.Dot{
+  background-color: #a866ee;
+  border-radius: 10px;
+  height: 16px;
+  width: 16px;
+}
+
+.Map {
+  background-color: #242424;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+}
